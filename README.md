@@ -28,3 +28,5 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 ## Based on the following Tutorials
 Combine CAP with SAP HANA Cloud to Create Full-Stack Applications
 https://developers.sap.com/mission.hana-cloud-cap.html
+
+## Have fun!

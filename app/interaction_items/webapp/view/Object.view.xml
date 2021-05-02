@@ -1,0 +1,21 @@
+<mvc:View xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" xmlns:semantic="sap.f.semantic" controllerName="interactionitems.controller.Object">
+
+	<semantic:SemanticPage id="page" headerPinnable="false" toggleHeaderOnTitleClick="false" busy="{objectView>/busy}" busyIndicatorDelay="{objectView>/delay}">
+
+		<semantic:titleHeading>
+			<Title text="{INTHeader_ID}"/>
+		</semantic:titleHeading>
+
+		<semantic:headerContent>
+			<ObjectNumber number="{      path: 'LANGU'     }"/>
+			<ObjectAttribute text="{      path: 'LOGTEXT'     }" id="attribute0"/>
+		</semantic:headerContent>
+
+		<semantic:sendEmailAction>
+			<semantic:SendEmailAction id="shareEmail" press=".onShareEmailPress"/>
+		</semantic:sendEmailAction>
+
+
+	</semantic:SemanticPage>
+
+</mvc:View>

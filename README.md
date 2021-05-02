@@ -26,6 +26,5 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 
 
 ## Based on the following Tutorials
-SAP Tech Bytes: Tutorial - Create SAP Cloud Application Programming Model Project for SAP HANA Cloud 
-https://www.youtube.com/watch?v=ydDOGz7P--8&t=591s
-
+Combine CAP with SAP HANA Cloud to Create Full-Stack Applications
+https://developers.sap.com/mission.hana-cloud-cap.html
